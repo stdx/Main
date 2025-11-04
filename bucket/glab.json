@@ -1,16 +1,16 @@
 {
-    "version": "1.76.0",
+    "version": "1.76.1",
     "description": "GitLab CLI",
     "homepage": "https://gitlab.com/gitlab-org/cli",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gitlab.com/gitlab-org/cli/-/releases/v1.76.0/downloads/glab_1.76.0_windows_amd64.zip",
-            "hash": "44839cb439de6bab80dce8900ac8dd4ecdeeb0cecd17a5efd50a365dc987878f"
+            "url": "https://gitlab.com/gitlab-org/cli/-/releases/v1.76.1/downloads/glab_1.76.1_windows_amd64.zip",
+            "hash": "15cec5879d223521c27f27c9ace8023963289ced7cee051185c1951089460b55"
         },
         "32bit": {
-            "url": "https://gitlab.com/gitlab-org/cli/-/releases/v1.76.0/downloads/glab_1.76.0_windows_386.zip",
-            "hash": "ce17c39a7102d57ac6fc86e7f5a0dbc5f821bac4c8d849f3844eeeb1415a5bc3"
+            "url": "https://gitlab.com/gitlab-org/cli/-/releases/v1.76.1/downloads/glab_1.76.1_windows_386.zip",
+            "hash": "fd2c23f18f7328899069230242d27e1e6c180f26b409d1468101ad5826b9d79b"
         }
     },
     "bin": "bin\\glab.exe",
