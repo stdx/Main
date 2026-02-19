@@ -1,16 +1,16 @@
 {
-    "version": "1.19.8",
+    "version": "1.19.9",
     "description": "Julia installer and version multiplexer",
     "homepage": "https://github.com/JuliaLang/juliaup",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/JuliaLang/juliaup/releases/download/v1.19.8/juliaup-1.19.8-x86_64-pc-windows-gnu-portable.tar.gz",
-            "hash": "ab985f8bd1ea02bbfc5c4f240c25a7d462871b13c0822d4b028202961ed66338"
+            "url": "https://github.com/JuliaLang/juliaup/releases/download/v1.19.9/juliaup-1.19.9-x86_64-pc-windows-gnu-portable.tar.gz",
+            "hash": "f8120309bb929819fbd1e3c874be48017bd81d8f9a5838dee75fe8d2f70e936e"
         },
         "32bit": {
-            "url": "https://github.com/JuliaLang/juliaup/releases/download/v1.19.8/juliaup-1.19.8-i686-pc-windows-gnu-portable.tar.gz",
-            "hash": "50b74ebd76614a8946a2a7b937898427c9cf37556ac33440aae6346ae4120fbe"
+            "url": "https://github.com/JuliaLang/juliaup/releases/download/v1.19.9/juliaup-1.19.9-i686-pc-windows-gnu-portable.tar.gz",
+            "hash": "f121e5cca92bcfbcb54f220049e092930c9d3b78b2e38fb2357e8b48cc67b5b1"
         }
     },
     "bin": "juliaup.exe",
